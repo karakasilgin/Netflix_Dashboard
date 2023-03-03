@@ -2,7 +2,7 @@
 
 This Power BI dashboard provides insights into the various titles available on Netflix, including information about title, genre, premiere date, runtime, IMDB score, and language.
 
-#Data Source
+**Data Source**
 The data used for this dashboard was obtained from the following GitHub repository:
 
 (https://raw.githubusercontent.com/undiscovered-genius/Netflix-Prime-Hotstar-Dashboard-Power-BI/main/dataset/NetflixOriginals.csv)
