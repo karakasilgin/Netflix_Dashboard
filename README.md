@@ -11,18 +11,18 @@ The data used for this dashboard was obtained from the following GitHub reposito
 
 The dashboard provides the following key features:
 
-Total number of titles by genre
-Distribution of titles by premiere year
-Distribution of titles by runtime
-IMDB score by genre
-Titles by language
-Data Transformation
+Total number of titles by genre;
+Distribution of titles by premiere year;
+Distribution of titles by runtime;
+IMDB score by genre;
+Titles by language;
+Data Transformation:
 
-The following data transformation steps were performed on the dataset before creating the dashboard:
+**The following data transformation steps were performed on the dataset before creating the dashboard:**
 
-Removed unnecessary columns
+*Removed unnecessary columns
 Renamed columns to be more user-friendly
-Grouped the data by genre, year, runtime, and language to aggregate the data for analysis
+Grouped the data by genre, year, runtime, and language to aggregate the data for analysis*
 
 **How to Use**
 
